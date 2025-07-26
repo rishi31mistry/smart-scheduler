@@ -1,0 +1,6 @@
+job_id,job_type,processing_time,priority,due_date,required_machine_type,setup_time
+J1,Drilling,3,2,2025-07-15,Drill,1
+J2,Milling,2,1,2025-07-14,Mill,0.5
+J3,Grinding,4,3,2025-07-16,Grinder,0.75
+J4,Drilling,5,2,2025-07-18,Drill,1
+J5,Milling,6,1,2025-07-20,Mill,0.5
